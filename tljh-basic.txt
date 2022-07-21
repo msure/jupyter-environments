@@ -1,0 +1,11 @@
+requests
+pandas
+urllib3
+joblib
+boto3
+scikit-learn
+statsmodels
+spacy
+beautifulsoup4
+json5
+nltk
